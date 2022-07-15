@@ -1,2 +1,3 @@
 # Supervised-ML-Algorithms-The-Mathematical-Way
-In this repository, I have added codes for building ML models for Linear Regression, Logistic Regression and Classification with the use of Mathematics and Statistics.
+
+In this repository, I have added codes for building ML models for Linear Regression, Logistic Regression and Classification with the use of Mathematics and Statistics. These models are built without using any of the pre-built methods from scikit libraries. So if you want to see the how those Linear Regression models from scikit library are built right from the beginning then this is the place for you. Here I have attached the Jupyter notebooks on which I practiced and learned from the Andrew NG's course on Coursera. These will include the concepts such as Cost Function, Gradient Descent, computing and implementing it, then visualizing it using matplotlib library of python
